@@ -1,0 +1,10 @@
+body {
+    background-image: url(../img/doga.jpg);
+    background-repeat: no-repeat;
+    background-size: auto
+}
+
+h1,p{
+    color: #fff;
+    font-family: Cambria,'Times New Roman', serif;
+}
